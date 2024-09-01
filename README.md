@@ -1,3 +1,4 @@
+
 # Get Fit Gym
 ## UI
 ### Project Goals
@@ -199,7 +200,3 @@ The design and functionality of the top bar followed [Create a Simple Navigation
 
 ### Timetable
 The design and functionality of the timetable section were influenced by [OURGYM](https://ourgym.co.uk/classes-timetable/), which provided valuable insights into user experience and interface design.
-
-
-
-
