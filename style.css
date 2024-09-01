@@ -47,7 +47,7 @@ nav ul li a {
 
 .hero-section {
     height: 100vh;
-    background-image: url('assets/gympeople.jpg'); 
+    background-image: url('gympeople.jpg'); 
     background-size: cover;
     background-position: center;
     display: flex;
