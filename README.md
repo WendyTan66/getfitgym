@@ -67,11 +67,11 @@ __Fond Choice__
 
 The following wireframes outline the layout and structure of the gym website on web,smartphone and ipad:
 
-![Web Page Wireframe](assets/webpage.png)
+![Web Page Wireframe](webpage.png)
 
-![Smartphone Page Wireframe](assets/smartphonepage.png)
+![Smartphone Page Wireframe](smartphonepage.png)
 
-![Ipad Page Wireframe](assets/ipadpage.png)
+![Ipad Page Wireframe](ipadpage.png)
 
    
 ## Features
@@ -94,15 +94,23 @@ The following wireframes outline the layout and structure of the gym website on 
 - **CSS**: For styling and making the website visually appealing.
 - **Javascript**: To insert content from Google Map and Youtube.
 
+## Accessibility
+
+Our website is designed with accessibility in mind to ensure that it is usable by as many people as possible, including those with disabilities. The following accessibility features have been implemented:
+
+- **Color Contrast**: Using color contrast in the text and background to make it visually accessible.
+- **Alt Text for Images**: All images include descriptive alt text to ensure they are accessible to users with visual impairments.
+- **Responsive Design**: The website is responsive and adapts to different screen sizes, making it usable on both desktop and mobile devices.
+
 
 ## Preview
 Here are screenshots of the final website:
 
-![Final Website Screenshots1](assets/preview1.PNG)
-![Final Website Screenshots2](assets/preview2.PNG)
-![Final Website Screenshots3](assets/preview3.PNG)
-![Final Website Screenshots4](assets/preview4.PNG)
-![Final Website Screenshots5](assets/preview5.PNG)
+![Final Website Screenshots1](preview1.PNG)
+![Final Website Screenshots2](preview2.PNG)
+![Final Website Screenshots3](preview3.PNG)
+![Final Website Screenshots4](preview4.PNG)
+![Final Website Screenshots5](preview5.PNG)
 
 ## Testing
 ### Join Us Form Testing
